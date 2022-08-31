@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swadhesh</h1>
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="400" height="250"/>
+  <img src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="700" height="250"/>
 </div>
 <h3 align="center">Passionate programmer...Focused on Robotics, AI, 3D Design and Data analysis</h3>
 

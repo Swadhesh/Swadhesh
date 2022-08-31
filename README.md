@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swadhesh</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="250"/>
+</div>
 <h3 align="center">Passionate programmer...Focused on Robotics, AI, 3D Design and Data analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadhesh&label=Profile%20views&color=0e75b6&style=flat" alt="swadhesh" /> </p>
@@ -6,7 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadhesh" alt="swadhesh" /></a> </p>
 
 - 🔭 I’m currently working on **Energy audit based on Vibrational analysis**
-
+- 🔭 I've worked on **Berryminator - (e-Yrc 2021-22)**
+- - 🔭 I've worked on **Virtual crackers VR game - designed with Unity and Blender**
 - 📫 How to reach me **swadheshpu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

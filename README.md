@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Swadhesh
 <div id="header" align="center">
-  <img src="https://i.gifer.com/6pp1.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif" width="100"/>
 </div>
 <!--
 **Swadhesh/Swadhesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

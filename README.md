@@ -2,15 +2,15 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/shsarv/shsarv/master/code.gif" width="700" height="250"/>
 </div>
-<h3 align="center">Passionate programmer...Focused on Robotics, AI, 3D Design and Data analysis</h3>
+<h3 align="center">Passionate programmer...Focused on Java programming, DSA, OOPS, Networks, Backend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadhesh&label=Profile%20views&color=0e75b6&style=flat" alt="swadhesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swadhesh" alt="swadhesh" /></a> </p>
 
-- 🔭 I’m currently working on **Energy audit based on Vibrational analysis**
-- 🔭 I've worked on **Berryminator - (e-Yrc 2021-22)**
-- - 🔭 I've worked on **Virtual crackers VR game - designed with Unity and Blender**
+- 🔭 I’m currently working on **Bank Management System using SpringBoot**
+- 🔭 I've worked on **Berryminator - (e-Yrc 2021-22) IITB**
+- 🔭 I've worked on **Virtual crackers VR game - designed with Unity and Blender**
 - 📫 How to reach me **swadheshpu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
